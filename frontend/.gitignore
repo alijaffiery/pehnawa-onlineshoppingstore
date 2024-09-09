@@ -1,0 +1,69 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional npm cache directory
+.npm/
+
+# Optional REPL history
+.node_repl_history
+
+# Logs
+logs
+*.log
+logs/*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by testing tools like Jest or Cypress
+coverage/
+*.lcov
+
+# Build directory
+build/
+
+# Cache files
+.cache/
+.parcel-cache/
+.vite/
+.next/
+out/
+
+# Static directories
+public/static
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# dotenv environment variable files
+.env
+.env.local
+.env.*.local
+
+# Compiled types
+dist/
+tsconfig.tsbuildinfo
+
+# Service worker cache files
+.swcache
+
+# ESLint cache
+.eslintcache
+
+# stylelint cache
+.stylelintcache
