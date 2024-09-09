@@ -2,6 +2,10 @@
 
 This repository contains two main folders: `frontend` and `backend`. Follow the instructions below to run the project locally.
 
+## LiveLink
+
+You can view the live website using this link: [Pehnawa - The House Of Brand](https://pehnawa-thehouseofbrand.netlify.app/)
+
 ## Prerequisites
 - Node.js installed (for both frontend and backend)
 - Any package manager like npm or yarn
